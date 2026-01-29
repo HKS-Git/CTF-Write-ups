@@ -29,7 +29,7 @@ Given a text file containing the values of e, n, and c.
 
 What makes this challenging is because of the large vlaue of n (157826 digits), A normal RSA modulus, n is usually around 2048 bits, around 600 digits.
 
-Given the susiciously large RSA modulus, n, I start by trying to use online factoring tools to try and get n to a smaller number, but no online tool can handle the large number.
+Given the suspiciously large RSA modulus, n, I start by trying to use online factoring tools to try and get n to a smaller number, but no online tool can handle the large number.
 
 The reason for this is likely because these online tools assumes RSA is formed by **2 large primes**.
 
