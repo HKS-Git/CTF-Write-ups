@@ -17,7 +17,7 @@
 
 This challenge is a crytography challenge related to RSA. 
 
-Given a text file containing the vlaues of e, n, and c.
+Given a text file containing the values of e, n, and c.
 
 >e = 65537
 >
