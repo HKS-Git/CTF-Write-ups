@@ -121,7 +121,7 @@ d = pow(e, -1, phi)
 
 ---
 
-<h2> Step 4: Decrpting with CRT (Chinese Remainder Theorem) </h2>
+<h2> Step 4: Decrypting with CRT (Chinese Remainder Theorem) </h2>
 
 Now that e, n, c, and d are found, we can use the RSA decryption formula:
 
