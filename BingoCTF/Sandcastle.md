@@ -15,7 +15,7 @@
 
 ---
 
-This challenge is a crytography challenge related to RSA. 
+This challenge is a cryptography challenge related to RSA. 
 
 Given a text file containing the values of e, n, and c.
 
